@@ -1,4 +1,4 @@
 module.exports = {
-  setApiKey: jest.fn(),
-  send: jest.fn(),
+    setApiKey: jest.fn(),
+    send: jest.fn()
 };
