@@ -1,5 +1,9 @@
 # Task Manager API
 
+A REST API to register tasks for users. You will be able to CRUD users, CRUD tasks, upload user avatar, and perform login and logout.
+
+# Running the app
+
 ## Prerequisites:
 
 -   Node.js
